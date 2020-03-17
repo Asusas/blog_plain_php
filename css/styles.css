@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+#footer {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
+    border-top: 1px solid rgb(143, 143, 143);
+    background-color: black;
+}
+
+.bg-dark {
+    background-color: black !important;
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+li {
+    font-weight: bold;
+    font-family: Georgia, Times, "Times new Roman", serif;
+    font-size: 0.9em;
+}
+
+
+/* ______________________ */
+
+body {
+    background-color: rgb(174, 174, 187);
+}
+
+.col-sm-9 {
+    background-color: white;
+}
+
+.list {
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 5px;
+    margin-top: 0.5em;
+    background-color: rgba(79, 81, 206, 0.589);
+}
+
+.list:hover {
+    background-color: rgb(49, 179, 99);
+}
+
+#side_menu a {
+    color: black;
+    font-weight: 600;
+}
